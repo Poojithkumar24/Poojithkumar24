@@ -1,10 +1,8 @@
 <h1 align="center">Hi 👋, I'm poojith kumar</h1>
 <h3 align="center">a final year student of computer science at Madanapalle institute of technology and science</h3>
 
-- 🌱 I’m currently learning **Spring boot**
-- 
-- 💬 Ask me about **React, Next Js**
-- <br>
+- 🌱 I’m currently learning **Spring boot**    💬 Ask me about **React, Next Js**
+  <br>
 
 
 <div> <a href="https://www.linkedin.com/in/poojith-kumar-44942a24b" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>

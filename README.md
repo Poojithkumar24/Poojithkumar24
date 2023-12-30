@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm poojith kumar</h1>
 <h3 align="center">a final year student of computer science at Madanapalle institute of technology and science</h3>
+
 - 🌱 I’m currently learning **Spring boot**
+- 
 - 💬 Ask me about **React, Next Js**
 
 

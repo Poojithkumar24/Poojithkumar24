@@ -2,7 +2,9 @@
 <h3 align="center"> I am a Final year Computer Science student at Madanapalle institute of technology and science</h3>
 - 🌱 I’m currently learning **Spring boot**
 - 💬 Ask me about **React, Next Js, Java**
+<br>
 - 📄 Know about my experiences **https://1drv.ms/b/s!AstNL5AV6uMFhtAGQHsnghglge8vpQ?e=OwzGSR**
+<br>
 
 <div> <a href="https://www.linkedin.com/in/poojith-kumar-44942a24b" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href="https://github.com/Poojithkumar24" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>

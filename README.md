@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm poojith kumar</h1>
-![image](https://github.com/Poojithkumar24/Poojithkumar24/assets/109473206/f8f3ef87-adda-4420-88c0-9d2f53f59297)
+<img src="https://github.com/Poojithkumar24/Poojithkumar24/assets/109473206/942ac57b-1f21-4fdf-82a4-3e2e1d2bda9f" alt="Nextjs" width="40" height="40"/>
+
+
 
 <h3 align="center">a final year student of computer science at Madanapalle institute of technology and science</h3>
 

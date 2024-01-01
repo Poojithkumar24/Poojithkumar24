@@ -2,7 +2,6 @@
 <h3 align="center"> I am a Final year Computer Science student at Madanapalle institute of technology and science</h3>
 - 🌱 I’m currently learning **Spring boot**
 - 💬 Ask me about **React, Next Js, Java**
-- 📫 How to reach me **poojithk956@gmail.com**
 - 📄 Know about my experiences **https://1drv.ms/b/s!AstNL5AV6uMFhtAGQHsnghglge8vpQ?e=OwzGSR**
 
 <div> <a href="https://www.linkedin.com/in/poojith-kumar-44942a24b" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
@@ -39,9 +38,6 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
 <div align="center">
 <a href="https://github.com/Poojithkumar24">
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Poojithkumar24&theme=2077" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Poojithkumar24&theme=highcontrast" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Poojithkumar24&theme=aura" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Poojithkumar24&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Poojithkumar24&theme=2077" height="180em" />
 </div>

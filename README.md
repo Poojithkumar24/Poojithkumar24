@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'am Poojith Kumar</h1>
-<h3 align="center"> I am a Final year Computer Science student at Madanapalle institute of technology and science</h3>
+<h3 align="center"> </h3>
 - 🌱 I’m currently learning **Spring boot**
 - 💬 Ask me about **React, Next Js, Java**
 <br>

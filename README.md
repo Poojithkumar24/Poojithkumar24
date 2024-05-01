@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'am Poojith Kumar</h1>
 <h3 align="center"> </h3>
 - 🌱 I’m currently learning **Spring boot**
-- 💬 Ask me about **React, Next Js, Java**
+- 💬 Ask me about **MERN**
 <br>
 - 📄 Know about my experiences **https://1drv.ms/b/s!AstNL5AV6uMFhtAGQHsnghglge8vpQ?e=OwzGSR**
 <br>

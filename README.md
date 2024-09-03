@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'am Poojith Kumar</h1>
 <h3 align="center"> </h3>
-- 💬 Ask me about **MERN Stack**
 <br>
 <br>
 <div> <a href="https://www.linkedin.com/in/poojith-kumar-44942a24b" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>

@@ -1,3 +1,4 @@
+<div style="background-color: #f0f0f0; padding: 20px; border-radius: 10px;">
 <h1 align="center" bg_color="lightgray">Hi 👋, I'm Poojith kumar</h1>
 <h3 align="center">A passionate developer from India</h3>
 
@@ -17,3 +18,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=poojithkumar24&show_icons=true&locale=en" alt="poojithkumar24" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=poojithkumar24&" alt="poojithkumar24" /></p>
+</div>

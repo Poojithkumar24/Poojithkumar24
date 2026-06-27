@@ -27,11 +27,10 @@ Building scalable backend systems and solving complex engineering problems.
 # 🚀 About Me
 
 - 💼 Backend Engineer at **FinBox**
-- 🎓 2024 Graduate
 - ⚡ Passionate about distributed systems & backend architecture
 - 🌱 Currently learning **System Design & Kubernetes**
 - 💻 Strong in **Go, Java, React, Node.js**
-- 🧩 Love solving problems on LeetCode
+- 🧩 Love solving problems
 
 ---
 

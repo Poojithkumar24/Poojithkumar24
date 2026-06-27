@@ -28,8 +28,7 @@ Building scalable backend systems, cloud-native applications, and solving comple
 
 * 💼 Backend Engineer at **FinBox**
 * 🔭 Building scalable APIs and distributed systems
-* 🌱 Currently learning **System Design** and **Kubernetes**
-* 💻 Experienced in **Go**, **Java**, **React**, and **Node.js**
+* 💻 Experienced in **Go**
 * 🧩 Passionate about backend engineering, cloud technologies, and performance optimization
 
 ---
